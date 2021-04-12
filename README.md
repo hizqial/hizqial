@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hizqial
-- 👀 I’m interested in quantum computing
+- 👋 Hi, I’m Alberto Espiricueta
+- 👀 I’m interested in quantum computing.
 - 🌱 I’m currently learning python, SQL, and qiskit.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Qiskit
 - 📫 How to reach me through email: AlbertoEspiri123@gmail.com
 
 <!---
